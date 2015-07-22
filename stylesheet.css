@@ -1,0 +1,58 @@
+body {
+	background-color: #5dbd96;
+}
+
+#soon h1 {
+	line-height: -15px;
+	margin:auto;
+	text-align: center;
+	color: white;
+	font-family: Montserrat;
+	font-weight: 400;
+	vertical-align: middle;
+}
+
+#soon p {
+	margin: auto;
+	text-align: center;
+	color: white;
+	font-family: Montserrat;
+	font-size: 2em;
+	font-weight: 700;
+}
+
+#soon {
+	margin-top: 20%;
+}
+
+#social {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.greydout {
+	height: 40px;
+	width: 40px;
+	display: block;
+    -webkit-opacity: .5;
+    -moz-opacity: .5;
+    opacity: .5;
+    display: inline-block;
+}
+
+
+.greydout:hover {
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+  display: inline-block;
+}
+
+#logo {
+
+	display: inline-block;
+}
+
+footer {
+text-align: center;
+}
