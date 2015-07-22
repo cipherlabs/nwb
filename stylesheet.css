@@ -1,5 +1,10 @@
 body {
 	background-color: #5dbd96;
+	overflow-y: hidden;
+}
+
+a {
+	text-decoration: none;
 }
 
 #soon h1 {
@@ -13,7 +18,7 @@ body {
 }
 
 #soon p {
-	margin: auto;
+	margin: 50px auto;
 	text-align: center;
 	color: white;
 	font-family: Montserrat;
