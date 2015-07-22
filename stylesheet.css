@@ -1,6 +1,5 @@
 body {
 	background-color: #5dbd96;
-	overflow-y: hidden;
 }
 
 a {
@@ -9,7 +8,7 @@ a {
 
 #soon h1 {
 	line-height: -15px;
-	margin:auto;
+	padding: auto;
 	text-align: center;
 	color: white;
 	font-family: Montserrat;
@@ -18,7 +17,7 @@ a {
 }
 
 #soon p {
-	margin: 50px auto;
+	padding: 50px auto;
 	text-align: center;
 	color: white;
 	font-family: Montserrat;
@@ -27,11 +26,11 @@ a {
 }
 
 #soon {
-	margin-top: 20%;
+	padding-top: 10%;
 }
 
 #social {
-	margin-top: 10px;
+	padding-top: 10px;
 	text-align: center;
 }
 
